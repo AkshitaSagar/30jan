@@ -1,0 +1,30 @@
+table{
+    border: 3px solid black;
+}
+
+tr{
+    background-color: yellow;
+    text-align: center;
+
+}
+
+td {
+    /* border: 2px solid black; */
+    padding: 10px;
+    font-size: 15px;
+    border: 2px solid red;
+  }
+ input{
+      text-align: center;
+      border: 2px solid black;
+  }
+ body{
+      background-color: aqua;
+  }
+input:hover{
+    color: red;
+    font-size: larger;
+    border: 2px solid  black;
+}  
+
+  
